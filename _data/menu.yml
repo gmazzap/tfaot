@@ -7,6 +7,9 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
+    - title: about
+      url: about.html
+
   - title: <em>More</em>
     entries:
       - title: RSS
