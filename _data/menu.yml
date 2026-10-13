@@ -1,0 +1,17 @@
+entries:
+  - title: What is this?
+  
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: More
+    entries:
+      - title: RSS
+        url: feed.xml
+        
+      - title: Mastodon
+        url: https://phpc.social/@gmazzap

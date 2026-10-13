@@ -4,7 +4,10 @@ title: The Future, Among Other Things,
 author: Giuseppe Mazzapica
 email: giuseppe.mazzapica@gmail.com
 url: https://gmazzap.github.io/tfaot/
-description: Is Not What It Used To Be.
+description: >
+    Is Not What It Used To Be.<br>
+    Test
+    
 
 permalink: /:slug.html
 
