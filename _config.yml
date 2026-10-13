@@ -1,1 +1,18 @@
 remote_theme: riggraz/no-style-please
+
+title: The Future Among Other Things
+author: Giuseppe Mazzapica
+email: giuseppe.mazzapica@gmail.com
+url: https://gmazzap.github.io/tfaot/
+description: ...is not how it used to be.
+
+permalink: /:slug.html
+
+favicon: "favicon.png"
+
+theme_config:
+  appearance: "auto"
+  back_home_text: "home"
+  date_format: "%Y-%m-%d"
+  show_description: true
+  lowercase_titles: true
