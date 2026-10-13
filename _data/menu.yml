@@ -1,20 +1,4 @@
 entries:
 
-  - title: last fragments
-    post_list:
-      category: fragments
-      limit: 5
-      show_more: true
-      show_more_text: all fragments...
-      show_more_url: fragments.html
-      
-  - title: last rants
-    post_list:
-      category: rants
-      limit: 5
-      show_more: true
-      show_more_text: all rants...
-      show_more_url: rants.html
-
   - title: <b>about</b>
     url: about.html
