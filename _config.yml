@@ -5,8 +5,9 @@ author: Giuseppe Mazzapica
 email: giuseppe.mazzapica@gmail.com
 url: https://gmazzap.github.io/tfaot/
 description: >
-    Is Not What It Used To Be.<br>
-    Test
+    <p>Is Not What It Used To Be.</p>
+    <hr>
+    <p>Test</p>
     
 
 permalink: /:slug.html
