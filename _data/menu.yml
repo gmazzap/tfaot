@@ -1,16 +1,25 @@
 entries:
-  
-  - title: all posts
+
+  - title: last fragments
     post_list:
+      category: fragments
       limit: 5
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_text: all fragments...
+      show_more_url: fragments.html
+      
+  - title: last rants
+    post_list:
+      category: rants
+      limit: 5
+      show_more: true
+      show_more_text: all rants...
+      show_more_url: rants.html
 
-    - title: about
-      url: about.html
+  - title: about
+    url: about.html
 
-  - title: <em>More</em>
+  - title: <em>more</em>
     entries:
       - title: RSS
         url: feed.xml
