@@ -16,13 +16,5 @@ entries:
       show_more_text: all rants...
       show_more_url: rants.html
 
-  - title: about
+  - title: <b>about</b>
     url: about.html
-
-  - title: <em>more</em>
-    entries:
-      - title: rss
-        url: feed.xml
-        
-      - title: mastodon
-        url: https://phpc.social/@gmazzap
