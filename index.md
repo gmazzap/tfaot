@@ -6,7 +6,7 @@ title: The Future, Among Other Things, Is Not What It Used To Be
 ---
 {: data-content="more"}
 
-Also on [rss](feed.xml), [fediverse](https://phpc.social/@gmazzap)
+also on [rss](feed.xml), [fediverse](https://phpc.social/@gmazzap)
 
 ---
 {: data-content="credits"}
