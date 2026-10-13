@@ -11,4 +11,4 @@ Also on [rss](feed.xml), [fediverse](https://phpc.social/@gmazzap)
 ---
 {: data-content="credits"}
 
-<small><i>I stole the word "fragment" from [Martin Fowler](https://martinfowler.com/fragments/)<i></small>
+<small><i>I stole the word "fragment" from [Martin Fowler](https://martinfowler.com/fragments/)</i></small>
