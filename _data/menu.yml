@@ -21,8 +21,8 @@ entries:
 
   - title: <em>more</em>
     entries:
-      - title: RSS
+      - title: rss
         url: feed.xml
         
-      - title: Mastodon
+      - title: mastodon
         url: https://phpc.social/@gmazzap
