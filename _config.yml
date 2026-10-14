@@ -1,12 +1,9 @@
 remote_theme: riggraz/no-style-please
 
-title: The Future, Among Other Things,
+title: The Future, Among Other Things, Is Not What It Used To Be.
 author: Giuseppe Mazzapica
 email: giuseppe.mazzapica@gmail.com
 url: https://gmazzap.github.io/tfaot/
-description: >
-    <p>Is Not What It Used To Be.</p>
-    <hr data-content="menu">
 
 permalink: /:slug.html
 
@@ -16,7 +13,7 @@ theme_config:
   appearance: "auto"
   back_home_text: "home"
   date_format: "%Y-%m-%d"
-  show_description: true
+  show_description: false
   lowercase_titles: true
   
 plugins:
