@@ -4,8 +4,6 @@ title: The Future, Among Other Things, Is Not What It Used To Be
 ---
 
 ---
-
----
 also on [mastodon](https://phpc.social/@gmazzap), [feed](https://gmazzap.github.io/tfaot/feed.xml).
 
 ---
